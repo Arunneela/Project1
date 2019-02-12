@@ -1,3 +1,5 @@
+/*This is a demo project */
+
 public class BinarySearch {
 
     public int binarySearch(int[] inputArr, int key) {
